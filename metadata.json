@@ -1,0 +1,6 @@
+{
+  "name": "Note Quest Trumpet Trainer",
+  "description": "Um RPG pedagógico para aprender de forma divertida notas, pistões do trompete, escala cromática, pentatônica e blue notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
